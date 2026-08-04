@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block montitre %}
+debut de mes mots: bienvenue dans bookish cruel love
+o
+{% endblock %}
+{% block content %}
+<h1># bookish-cruel-love</h1>
+{% for x in users | reverse %}
+ <li>{{ x["first_name"]  }}</li>
+
+{% endfor %} 
+fin de mes mots : lieux : marché, gare, plage ou la ville
+haut et bas : notation musicale sur la partition. downbow et upbow\
+
+quote sur le sport, mode ou musique.
+Il y a des musiciens dissident, voyageurs, dans un marché , il y a une faille dans une vidéo dIA. UNe vidéo dIA montre des musiciens dissidents sur les réseaux sociaux avec leurs repas enfant  et adultes avec le niveau de cruauté qui a augmenté. Et des vidéos de musique/en lien avec des quotes.
+{% endblock %}
+{% block liens %}
+<a href="/">welcome</a>
+{% endblock %}
+<a href="/add_one_musique"> add one musique</a><a href="/add_one_country"> add one country</a><a href="/add_one_cutlery"> add one cutlery</a><a href="/add_one_places"> add one places</a><a href="/add_one_station"> add one station</a><a href="/add_one_traveler"> add one traveler</a><a href="/add_one_social_media_account"> add one social_media_account</a><a href="/add_one_pop_culture_quote"> add one pop_culture_quote</a><a href="/add_one_news_video"> add one news_video</a><a href="/add_one_ai_news_video"> add one ai_news_video</a><a href="/add_one_musician_pic"> add one musician_pic</a><a href="/add_one_traveling_ticket"> add one traveling_ticket</a><a href="/add_one_user"> add one user</a><a href="/add_one_childhood_meal"> add one childhood_meal</a><a href="/add_one_adult_cruelty_meal"> add one adult_cruelty_meal</a>
