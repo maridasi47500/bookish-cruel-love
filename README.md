@@ -7,7 +7,7 @@
 - unusual action :
 - consulter des videos des gens enfants qui mangent de viande de leur histoire de tyran
 - consulter/ajouter des videos de mme et mr parfait
-- choisir un article du marché au puces qui fait tout basculer vers un monde parallèle
+- choisir un article du marché au puces qui fait tout basculer vers un monde parallèle (ex: un livre sur les super heros)
 - basculer dans la musique classique : ajouter au monde parallele des titre de musique classique à jouer/ecouter
 - ajouter au monde parallele des choses à faire qui vient des USA (Sport, Pop Culture, Mode, nourriture, musique)
 
