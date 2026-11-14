@@ -14,7 +14,7 @@
 
 - début de cette histoire : des simple couverts (choisis un pays, le pays des couverts) et en mangeant à table enfant (ou enfants) (cutlery ) en passant de enfant à adulte le sentiment envers la nourriture s'est transformé en cruauté (cruelty) . Dans la gare, adulte (avant enfants) vont arriver avec des compte de reseaux scociaux.
 - 🎡"Bienvenue dans la République de l'Amour Cruel. Ici, le cœur se mange et la musique est une onde de choc émotionnelle."
-- -📖 Le ConceptLHUB est un projet narratif transmédia explorant la déchéance d'un foyer ordinaire basculant dans une dystopie numérique. Ce qui commence comme une quête banale d'opportunités musicales se transforme en un cauchemar orchestré par des "Tyrans de l'Amour" via un portail multidimensionnel caché dans un marché aux puces.
+- -📖 Le Concept : projet narratif transmédia explorant la déchéance d'un foyer ordinaire basculant dans une dystopie numérique. Ce qui commence comme une quête banale d'opportunités musicales se transforme en un cauchemar orchestré par des "Tyrans de l'Amour" via un portail multidimensionnel caché dans un marché aux puces.
 - - 🌪️ L'Intrigue : Le Grand Basculement
   - 1. Le DépartUn foyer classique, en quête de succès, multiplie les destinations pour percer dans la musique. Entre fins de mois difficiles et tensions relationnelles, leur vie ressemble à celle de millions d'autres.
   - 2. L'Anomalie du Marché aux PucesTout bascule devant un stand de brocante. Une vidéo générée par IA, liée à un objet du marché, ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail connecte notre réalité à la République de l'Amour Cruel.
